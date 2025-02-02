@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "React Native Tips",
+      "content": "Some useful tips on React Native...",
+      "image": "https://cdn.pixabay.com/photo/2023/09/19/12/59/eagle-8262555_1280.jpg",
+      "tags": ["React Native", "Mobile"],
+      "writer": {
+        "id": "101",
+        "name": "Alice",
+        "image": "https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=5OK7djfD3cnNmQ-DR0iQzF-vmA-iTNN1TbuEyCG1DfA="
+      }
+    },
+    {
+      "id": "2",
+      "title": "Understanding Context API",
+      "content": "A deep dive into Context API...",
+      "image": "https://media.istockphoto.com/id/1043730598/photo/smiling-young-indian-woman-walking-with-suitcase-and-cellphone-by-bus-station.jpg?s=1024x1024&w=is&k=20&c=1MhOqAyLKgPIXH3OUStjb6IbYusV5sbN25a3jpPoALU=",
+      "tags": ["React", "Context API"],
+      "writer": {
+        "id": "102",
+        "name": "Bob",
+        "image": "https://media.istockphoto.com/id/1476170969/photo/portrait-of-young-man-ready-for-job-business-concept.jpg?s=1024x1024&w=is&k=20&c=8mgK2Kq73o8DIjazvLmEGkhx2p_7P5r3mvpbIM6q5cA="
+      }
+    }
+  ]
+  

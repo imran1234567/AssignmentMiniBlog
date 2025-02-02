@@ -1,0 +1,25 @@
+[
+    {
+      "id": "101",
+      "name": "Alice",
+      "image": "https://example.com/alice.jpg",
+      "bio": "Mobile developer with a passion for React Native.",
+      "expertise": "Mobile Development",
+      "totalBlogs": 5,
+      "followers": 150,
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    {
+      "id": "102",
+      "name": "Bob",
+      "image": "https://example.com/bob.jpg",
+      "bio": "Front-end developer and React enthusiast.",
+      "expertise": "Web Development",
+      "totalBlogs": 8,
+      "followers": 200,
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    }
+  ]
+  
