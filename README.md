@@ -83,3 +83,30 @@ MiniBlogsApp/
 ├── screens/               # Screen components (Onboarding, BlogList, BlogDetail, Profile, CreateBlog, Map, Chat)
 ├── App.tsx                # App entry point
 └── README.md              # Project documentation
+
+Install Dependencies
+
+Use npm or yarn to install all required packages:
+npm install
+# or
+yarn install
+Install Additional Expo Dependencies
+
+Some packages might need installation via Expo CLI:
+npx expo install react-native-maps react-native-screens react-native-safe-area-context expo-image-picker
+npm install @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
+Running the App
+Start the Expo Server -
+npx expo start
+Launch on Device or Simulator
+
+On your mobile device:
+Install the Expo Go app (available on iOS and Android), then scan the QR code displayed in the terminal or browser.
+
+On an iOS Simulator:
+Press i in the terminal after starting Expo.
+
+On an Android Emulator:
+Press a in the terminal after starting Expo.
+
+
