@@ -27,6 +27,7 @@ const BlogListScreen = () => {
         placeholder="Search by writer name..."
         value={searchText}
         onChangeText={handleSearch}
+        
       />
       {/* Additional filter UI (e.g., dropdowns for expertise or language) can go here */}
       <FlatList
@@ -35,7 +36,7 @@ const BlogListScreen = () => {
         ListHeaderComponent={<>
           <View style={{flexDirection:'row', justifyContent:'flex-end', marginBottom: 15, marginHorizontal: 15}}>
             <Pressable onPress={() => navigation.navigate('CreateBlog')} style={{padding: 10, backgroundColor:'#000', borderRadius: 8, alignItems:'center'}}> 
-              <Text style={{color: '#fff'}}>Create Blog</Text>
+              <Text style={{color: '#fff'}}>+ Create Blog</Text>
             </Pressable>
           </View>
         </>}
